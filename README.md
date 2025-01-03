@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://github.com/xekOnerR/gihubSNK/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)
+
+
+[+] OSCP 2024/07/03
+[-] CRTO 2025/02/10
+[-] OSEP 2025/08/30
