@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - [+] CRTO Done 2025/02/12 ✨
 - [-] OSEP 2025/08/30 ⚡
 - Coming soon ....... ⚡
+
+BLOG: [https://xekoner.xyz]
