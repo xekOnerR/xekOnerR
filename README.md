@@ -17,12 +17,10 @@ Here are some ideas to get you started:
 ![](https://github.com/xekOnerR/gihubSNK/raw/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 
-**BLOG**: https://xekoner.xyz
-
-
 - [+] OSCP Done 2024/07/03 ✨
 - [+] CRTO Done 2025/02/12 ✨
 - [-] OSEP 2025/08/30 ⚡
 - Coming soon ....... ⚡
 
 
+**BLOG**: https://xekoner.xyz
