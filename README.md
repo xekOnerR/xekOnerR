@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - [-] OSEP 2025/08/30 ⚡
 - Coming soon ....... ⚡
 
-BLOG: [https://xekoner.xyz]
+**BLOG**: (https://xekoner.xyz)
